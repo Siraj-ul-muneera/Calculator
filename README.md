@@ -4,6 +4,7 @@ Java code to create a calculator to perform the four basic arithmetic operations
 (addition, subtraction, multiplication, and division).
 
 ## Steps to run the calculator
+* The application is developed using the Eclipse IDE.
 * To use the application you need to run the **MainApp.java** class
 * You would be prompted to enter an arithmetic expression as the input.
 * The input is then validated. In case you have entered an invalid input, the same would be displayed.
